@@ -135,8 +135,7 @@ a:active {
     text-transform: uppercase;
   }
 
-  .avatar.jpg {
+  .avatar {
     width: 150px;
-    height: 170px;
   }
 }
